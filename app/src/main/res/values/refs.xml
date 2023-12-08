@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <drawable name="ic_add_black_24dp">24</drawable>
+    <drawable name="ic_add_black_24dp">24 sp</drawable>
     <drawable name="ic_add_black_24sp">24 sp</drawable>
 </resources>
